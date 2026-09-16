@@ -1,3 +1,4 @@
+# CI pipeline demonstration - Task 8.1P
 import logging
 import time
 from contextlib import asynccontextmanager
